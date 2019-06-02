@@ -55,6 +55,7 @@ public class ApiResponse {
          */
         BAD_REQUEST(400, "Bad Request"),
 
+        NOT_FOUNT(404, "Not Found"),
         /**
          * 服务出现错误
          */
