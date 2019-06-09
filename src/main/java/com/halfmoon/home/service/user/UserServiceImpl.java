@@ -1,8 +1,8 @@
-package com.halfmoon.home.service.impl;
+package com.halfmoon.home.service.user;
 
 import com.halfmoon.home.entity.User;
 import com.halfmoon.home.repository.UserRepository;
-import com.halfmoon.home.service.UserService;
+import com.halfmoon.home.service.user.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

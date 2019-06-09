@@ -1,4 +1,4 @@
-package com.halfmoon.home.service;
+package com.halfmoon.home.service.user;
 
 import com.halfmoon.home.entity.User;
 
