@@ -90,6 +90,8 @@ public class House {
      */
     private int direction;
 
+    private String cover;
+
     /**
      * 房子距离地铁的距离
      */
